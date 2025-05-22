@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="aboutUs.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ChooseFile.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Colored.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dashboard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ErrorLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ErrorPrint.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Funds.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Grayscale.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Hopper.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InkLevel.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InserCoin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Insufficient.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Keyboard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Kulang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LowPaper.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="noFunds.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="noPaper.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Page.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Piniprint.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Prasis.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Preview.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Price.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Printer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Range.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Reports.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Settings.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StartPage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Thanks.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Upload_File.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="Colored.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Grayscale.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>

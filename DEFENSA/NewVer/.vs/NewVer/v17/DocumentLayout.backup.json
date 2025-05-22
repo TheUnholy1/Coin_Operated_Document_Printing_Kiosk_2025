@@ -1,0 +1,193 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DEFENSA\\NewVer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D087C38F-C5CF-4BB7-A8F6-04D1B6965EF1}|NewVer.vbproj|c:\\defensa\\newver\\choosefile.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D087C38F-C5CF-4BB7-A8F6-04D1B6965EF1}|NewVer.vbproj|solutionrelative:choosefile.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D087C38F-C5CF-4BB7-A8F6-04D1B6965EF1}|NewVer.vbproj|c:\\defensa\\newver\\preview.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D087C38F-C5CF-4BB7-A8F6-04D1B6965EF1}|NewVer.vbproj|solutionrelative:preview.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D087C38F-C5CF-4BB7-A8F6-04D1B6965EF1}|NewVer.vbproj|c:\\defensa\\newver\\startpage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D087C38F-C5CF-4BB7-A8F6-04D1B6965EF1}|NewVer.vbproj|solutionrelative:startpage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D087C38F-C5CF-4BB7-A8F6-04D1B6965EF1}|NewVer.vbproj|c:\\defensa\\newver\\grayscale.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D087C38F-C5CF-4BB7-A8F6-04D1B6965EF1}|NewVer.vbproj|solutionrelative:grayscale.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D087C38F-C5CF-4BB7-A8F6-04D1B6965EF1}|NewVer.vbproj|c:\\defensa\\newver\\colored.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D087C38F-C5CF-4BB7-A8F6-04D1B6965EF1}|NewVer.vbproj|solutionrelative:colored.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D087C38F-C5CF-4BB7-A8F6-04D1B6965EF1}|NewVer.vbproj|c:\\defensa\\newver\\thanks.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D087C38F-C5CF-4BB7-A8F6-04D1B6965EF1}|NewVer.vbproj|solutionrelative:thanks.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D087C38F-C5CF-4BB7-A8F6-04D1B6965EF1}|NewVer.vbproj|c:\\defensa\\newver\\execute.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D087C38F-C5CF-4BB7-A8F6-04D1B6965EF1}|NewVer.vbproj|solutionrelative:execute.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D087C38F-C5CF-4BB7-A8F6-04D1B6965EF1}|NewVer.vbproj|c:\\defensa\\newver\\reports.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D087C38F-C5CF-4BB7-A8F6-04D1B6965EF1}|NewVer.vbproj|solutionrelative:reports.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D087C38F-C5CF-4BB7-A8F6-04D1B6965EF1}|NewVer.vbproj|c:\\defensa\\newver\\dashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D087C38F-C5CF-4BB7-A8F6-04D1B6965EF1}|NewVer.vbproj|solutionrelative:dashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D087C38F-C5CF-4BB7-A8F6-04D1B6965EF1}|NewVer.vbproj|c:\\defensa\\newver\\reports.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D087C38F-C5CF-4BB7-A8F6-04D1B6965EF1}|NewVer.vbproj|solutionrelative:reports.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Thanks.vb",
+              "DocumentMoniker": "C:\\DEFENSA\\NewVer\\Thanks.vb",
+              "RelativeDocumentMoniker": "Thanks.vb",
+              "ToolTip": "C:\\DEFENSA\\NewVer\\Thanks.vb",
+              "RelativeToolTip": "Thanks.vb",
+              "ViewState": "AgIAABsAAAAAAAAAAAAiwCIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-08T00:17:03.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Reports.vb",
+              "DocumentMoniker": "C:\\DEFENSA\\NewVer\\Reports.vb",
+              "RelativeDocumentMoniker": "Reports.vb",
+              "ToolTip": "C:\\DEFENSA\\NewVer\\Reports.vb",
+              "RelativeToolTip": "Reports.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-23T14:57:47.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Grayscale.vb",
+              "DocumentMoniker": "C:\\DEFENSA\\NewVer\\Grayscale.vb",
+              "RelativeDocumentMoniker": "Grayscale.vb",
+              "ToolTip": "C:\\DEFENSA\\NewVer\\Grayscale.vb",
+              "RelativeToolTip": "Grayscale.vb",
+              "ViewState": "AgIAAMAAAAAAAAAAAAAmwM0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-22T09:42:34.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Colored.vb",
+              "DocumentMoniker": "C:\\DEFENSA\\NewVer\\Colored.vb",
+              "RelativeDocumentMoniker": "Colored.vb",
+              "ToolTip": "C:\\DEFENSA\\NewVer\\Colored.vb",
+              "RelativeToolTip": "Colored.vb",
+              "ViewState": "AgIAAKoCAAAAAAAAAAAAwLECAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-22T09:42:03.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StartPage.vb",
+              "DocumentMoniker": "C:\\DEFENSA\\NewVer\\StartPage.vb",
+              "RelativeDocumentMoniker": "StartPage.vb",
+              "ToolTip": "C:\\DEFENSA\\NewVer\\StartPage.vb",
+              "RelativeToolTip": "StartPage.vb",
+              "ViewState": "AgIAAHUAAAAAAAAAAAA8wHsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-22T09:40:28.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Preview.vb",
+              "DocumentMoniker": "C:\\DEFENSA\\NewVer\\Preview.vb",
+              "RelativeDocumentMoniker": "Preview.vb",
+              "ToolTip": "C:\\DEFENSA\\NewVer\\Preview.vb",
+              "RelativeToolTip": "Preview.vb",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAkwH0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-22T09:41:16.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChooseFile.vb",
+              "DocumentMoniker": "C:\\DEFENSA\\NewVer\\ChooseFile.vb",
+              "RelativeDocumentMoniker": "ChooseFile.vb",
+              "ToolTip": "C:\\DEFENSA\\NewVer\\ChooseFile.vb",
+              "RelativeToolTip": "ChooseFile.vb",
+              "ViewState": "AgIAACgAAAAAAAAAAAAuwDIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-22T09:40:51.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Execute.vb",
+              "DocumentMoniker": "C:\\DEFENSA\\NewVer\\Execute.vb",
+              "RelativeDocumentMoniker": "Execute.vb",
+              "ToolTip": "C:\\DEFENSA\\NewVer\\Execute.vb",
+              "RelativeToolTip": "Execute.vb",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAiwHwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-23T15:46:37.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dashboard.vb",
+              "DocumentMoniker": "C:\\DEFENSA\\NewVer\\Dashboard.vb",
+              "RelativeDocumentMoniker": "Dashboard.vb",
+              "ToolTip": "C:\\DEFENSA\\NewVer\\Dashboard.vb",
+              "RelativeToolTip": "Dashboard.vb",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCEAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-03T02:27:20.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Reports.vb [Design]",
+              "DocumentMoniker": "C:\\DEFENSA\\NewVer\\Reports.vb",
+              "RelativeDocumentMoniker": "Reports.vb",
+              "ToolTip": "C:\\DEFENSA\\NewVer\\Reports.vb [Design]",
+              "RelativeToolTip": "Reports.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-23T15:01:07.316Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

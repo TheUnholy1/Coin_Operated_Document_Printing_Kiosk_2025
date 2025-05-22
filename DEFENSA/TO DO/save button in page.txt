@@ -1,0 +1,43 @@
+Private Sub btnSave_Click(sender As Object, e As EventArgs) Handles btnSave.Click
+    ' Get the current date
+    Dim currentDate As String = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss")
+    Dim valueShort As Integer
+    Dim valueLong As Integer
+    Dim currentShort = Integer.Parse(startPage.lblPaperS.Text)
+    Dim currentLong = Integer.Parse(startPage.lblPaperL.Text)
+
+    ' Calculate remaining capacity for short and long papers
+    Dim remainingShort = 60 - currentShort
+    Dim remainingLong = 60 - currentLong
+
+    ' Save Short Paper
+    If Not String.IsNullOrWhiteSpace(cbShort.Text) AndAlso Integer.TryParse(cbShort.Text, valueShort) Then
+        If valueShort < 1 OrElse valueShort > remainingShort Then
+            MessageBox.Show($"You can only add up to {remainingShort} for Short paper.", "Invalid Input", MessageBoxButtons.OK, MessageBoxIcon.Warning)
+            cbShort.Text = ""
+            Return
+        Else
+            SavePaperData("Short", valueShort, currentDate)
+            UpdateAvailablePapers("Short", valueShort)
+            LoadAvailablePapers() ' Update VB.NET properties
+            cbShort.Text = ""
+        End If
+    End If
+
+    ' Save Long Paper
+    If Not String.IsNullOrWhiteSpace(cbLong.Text) AndAlso Integer.TryParse(cbLong.Text, valueLong) Then
+        If valueLong < 1 OrElse valueLong > remainingLong Then
+            MessageBox.Show($"You can only add up to {remainingLong} for Long paper.", "Invalid Input", MessageBoxButtons.OK, MessageBoxIcon.Warning)
+            cbLong.Text = ""
+            Return
+        Else
+            SavePaperData("Long", valueLong, currentDate)
+            UpdateAvailablePapers("Long", valueLong)
+            LoadAvailablePapers() ' Update VB.NET properties
+            cbLong.Text = ""
+        End If
+    End If
+
+    ' Refresh paper count in StartPage
+    startPage.UpdatePaper()
+End Sub
